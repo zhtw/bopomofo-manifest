@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="zhtw"
+      fetch="https://github.com/zhtw" />
+  <default revision="master"
+           remote="zhtw"
+           sync-j="4" />
+  <project path="src/github.com/zhtw/bopomofo-benchmark" name="bopomofo-benchmark">
+</manifest>
