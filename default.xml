@@ -6,4 +6,5 @@
            remote="zhtw"
            sync-j="4" />
   <project path="src/github.com/zhtw/bopomofo-benchmark" name="bopomofo-benchmark"/>
+  <project path="src/github.com/zhtw/chinese-segmentation" name="chinese-segmentation"/>
 </manifest>
